@@ -4,7 +4,7 @@
 - 👀 I'm interested in front-end projects.
 - 🌱 I’m currently learning JavaScript and React. I like to study new skills and abilities.
 
-- 📫 How to reach me: send me email to: kevinbencs8@gmail.com or check my first [Portfolio website](https://www.bencskevin.hu/)
+- 📫 How to reach me: send me email to: kevinbencs8@gmail.com or check my first [Portfolio website](https://www.bencskevin.hu/).
 
 <!--
 **kevinbencs/kevinbencs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
