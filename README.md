@@ -1,12 +1,12 @@
 ## Hi there 
 
-- 👋 I'm Kevin, a Junior Full-Stack Developer.
+- I'm Kevin, a Junior Full-Stack Developer.
 - I build modern web applications using JavaScript-based technologies.
 - My main focus is on React / Next.js on the frontend and Node.js on the backend.
 
 I enjoy working on real-world projects involving REST APIs, databases, authentication, and containerized environments.
 
-🔧 Tech stack:
+#🔧 Tech stack:
 - JavaScript / TypeScript
 - React / Next.js
 - Node.js / Express
@@ -14,7 +14,7 @@ I enjoy working on real-world projects involving REST APIs, databases, authentic
 - MondoDB
 - Docker
 
-📌 Featured project:
+#📌 Featured project:
 
 URL Shortener - Node.js (Express), Docker, Traefik, React
 - A full-stack URL shortener built with a distributed architecture.
@@ -27,7 +27,7 @@ News Portal - Next.js, TailwindCSS, Supabase
 - The application includes authentication, role-based access, and database-backed content management.
 
 
-🌍 Portfolio: [https://www.bencskevin.hu](https://www.bencskevin.hu/)
+🌍 Portfolio: [https://www.bencskevin.hu](https://www.bencskevin.hu/)__
 💼 LinkedIn: [https://www.linkedin.com/in/kevin-bencs-3a3883311/](https://www.linkedin.com/in/kevin-bencs-3a3883311/)
 <!--
 **kevinbencs/kevinbencs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
