@@ -26,6 +26,7 @@ News Portal - Next.js, TailwindCSS, Supabase
 - Admins can create, edit, delete, and publish articles, manage content, and send email notifications.
 - The application includes authentication, role-based access, and database-backed content management.
 
+## Other contacts
 
 🌍 Portfolio: [https://www.bencskevin.hu](https://www.bencskevin.hu/) <br />
 💼 LinkedIn: [https://www.linkedin.com/in/kevin-bencs-3a3883311/](https://www.linkedin.com/in/kevin-bencs-3a3883311/)
