@@ -6,7 +6,7 @@
 
 I enjoy working on real-world projects involving REST APIs, databases, authentication, and containerized environments.
 
-# 🔧 Tech stack:
+## 🔧 Tech stack:
 - JavaScript / TypeScript
 - React / Next.js
 - Node.js / Express
@@ -14,7 +14,7 @@ I enjoy working on real-world projects involving REST APIs, databases, authentic
 - MondoDB
 - Docker
 
-# 📌 Featured project:
+## 📌 Featured project:
 
 URL Shortener - Node.js (Express), Docker, Traefik, React
 - A full-stack URL shortener built with a distributed architecture.
